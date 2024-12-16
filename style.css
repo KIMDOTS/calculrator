@@ -19,7 +19,7 @@ html {
 /* ---------- 계산기 컨테이너 ----------*/
 .calculator-container {
     width: 360px;
-    height: 85%;
+    height: 600px;
     display: flex;
     flex-direction: column;
     justify-content: center;
